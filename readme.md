@@ -2,6 +2,12 @@
 
 ## This is Simple Task  designed to provide a straightforward and intuitive interface for managing car reservation live version can be found here [nyntax-task](https://nyntaxtask.netlify.app/)
 
+## Screenshots
+
+### Home
+
+![Home](ss.png)
+
 ## Getting Started
 
 To get started with the POJ Web Application, follow these steps:
