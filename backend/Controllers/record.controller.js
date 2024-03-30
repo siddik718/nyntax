@@ -1,4 +1,4 @@
-import Record from "../Models/Record.model.js";
+import Record from "../Models/record.model.js";
 import { generatePDF } from "../libs/help.js";
 
 export const save = async (req, res) => {
